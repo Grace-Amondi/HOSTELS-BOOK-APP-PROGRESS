@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Bookmark/nls/strings":{labelBookmarkName:"\u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u0935\u094d\u092f\u0942 \u0915\u094b \u092c\u0941\u0915\u092e\u093e\u0930\u094d\u0915 \u0915\u0930\u0947\u0902",labelPlay:"\u0938\u092d\u0940 \u0915\u094b \u091a\u0932\u093e\u090f\u0902",labelStop:"\u0930\u0941\u0915\u0947\u0902",labelDelete:"\u0939\u091f\u093e\u090f\u0901",placeholderBookmarkName:"\u092c\u0941\u0915\u092e\u093e\u0930\u094d\u0915 \u0915\u093e \u0928\u093e\u092e",errorNameExist:"\u092c\u0941\u0915\u092e\u093e\u0930\u094d\u0915 \u092e\u094c\u091c\u0942\u0926 \u0939\u0948!",
+errorNameNull:"\u0905\u092e\u093e\u0928\u094d\u092f \u092c\u0941\u0915\u092e\u093e\u0930\u094d\u0915 \u0928\u093e\u092e!",_widgetLabel:"\u092c\u0941\u0915\u092e\u093e\u0930\u094d\u0915",_localized:{}}});

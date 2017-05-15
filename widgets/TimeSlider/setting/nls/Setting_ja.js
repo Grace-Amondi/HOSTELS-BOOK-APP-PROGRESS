@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/TimeSlider/setting/nls/strings":{showLayerLabels:"\u6642\u9593\u5bfe\u5fdc\u30ec\u30a4\u30e4\u30fc\u540d\u3092\u30a6\u30a3\u30b8\u30a7\u30c3\u30c8\u306b\u8868\u793a\u3057\u307e\u3059\u3002",dateAndTimeFormat:"\u65e5\u6642\u5f62\u5f0f",mapDefault:"\u30de\u30c3\u30d7\u306e\u30c7\u30d5\u30a9\u30eb\u30c8",custom:"\u30ab\u30b9\u30bf\u30e0",formatInstruction:"\u66f8\u5f0f\u8a2d\u5b9a\u306e\u624b\u9806",_localized:{}}});

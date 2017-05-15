@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/lang","dojo/_base/array","jimu/utils"],function(k,f,l){function g(a,c){var b=null;a&&a.fields&&f.some(a.fields,function(a){if(a.name.toLowerCase()===c.toLowerCase())return b=a,!0});return b}function h(a,c,b){var d=null;if(a&&a.attributes)for(var e in a.attributes)if(a.attributes.hasOwnProperty(e)&&"function"!==typeof a.attributes[e]&&e.toLowerCase()===c.toLowerCase()){d=b?a.attributes[e]=b:a.attributes[e];break}return d}return{getFieldInfosFromWebmap:function(a,c){var b=null,d=
+c.getLayerInfoByTopLayerId(a);d&&(d=d.getPopupInfo())&&d.fieldInfos&&(b=k.clone(d.fieldInfos));b&&f.forEach(b,function(a){a.format&&a.format.dateFormat&&a.format.dateFormat.toLowerCase()&&0<=a.format.dateFormat.toLowerCase().indexOf("time")&&(a.format.time=!0)});return b},getLocaleDateTime:function(a){return l.localizeDate(new Date(a),{fullYear:!0,formatLength:"medium"})},getAttrByFieldKey:function(a,c){return h(a,c)},setAttrByFieldKey:function(a,c,b){return h(a,c,b)},ignoreCaseToGetFieldKey:function(a,
+c){var b=null,d=g(a,c);d&&(b=d.name);return b},ignoreCaseToGetFieldObject:function(a,c){return g(a,c)}}});

@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"dojox/form/nls/CheckedMultiSelect":{invalidMessage:"Setidaknya harus dipilih satu buah item.",multiSelectLabelText:"{num} item yang dipilih",_localized:{}},"widgets/ObliqueViewer/setting/nls/strings":{layerSelect:"Pilih Layer",elevationFieldSelect:"Kolom Elevasi",azimuthFieldSelect:"Kolom Azimut",showThumbnailText:"Perlihatkan Thumbnails dalam Daftar Raster",rasterInfoFieldsSelect:"Pilih Kolom Info Daftar",fieldLimitText:"Maksimal 3 kolom dapat dipilih.",autoSyncText:"Sinkronkan Peta Utama",
+errorSectionMeasage:"Tidak ada layer layanan gambar muncul di peta yang dipilih. Harap pilih peta dengan layer layanan gambar yang berisi gambar menyerong (oblique).",_localized:{}}});

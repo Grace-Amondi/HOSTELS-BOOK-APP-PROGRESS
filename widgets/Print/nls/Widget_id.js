@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Print/nls/strings":{_widgetLabel:"Cetak",title:"Judul Peta",format:"Format",layout:"Layout",settings:"Lanjutan",labels:"Label",showLabels:"Tampilkan label",mapScaleExtent:"Skala/perluasan peta",preserve:"Pemeliharaan",mapScale:"skala peta",mapExtent:"perluasan peta",forceScale:"Paksakan skala",getCurrentScale:"saat ini",mapMetadata:"Metadata tata letak",author:"Pembuat",copyright:"Hak cipta",fullLayoutOptions:"Opsi tata letak penuh",scaleBarUnitsMetric:"Unit bilah skala metrik",scaleBarUnitsNonMetric:"Unit bilah skala non-metrik",
+unitsMiles:"Mil",unitsKilometers:"Kilometer",unitsMeters:"Meter",unitsFeet:"Kaki",unitsYards:"Yard",unitsNauticalMiles:"Mil Laut",lncludeLegend:"Sertakan legenda",printQualityOptions:"Kualitas cetak",dpi:"DPI",mapOnlyOptions:"Ukuran MAP_ONLY",width:"Lebar (px)",height:"Tinggi (px)",print:"Cetak",clearList:"Bersihkan Cetakan",creatingPrint:"Membuat Cetakan",printError:"Eror, coba lagi",_localized:{}}});

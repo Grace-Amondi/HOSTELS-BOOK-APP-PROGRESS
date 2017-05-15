@@ -1,0 +1,6 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Stream/setting/nls/strings":{_widgetLabel:"Streaming",streamControls:"Kontrol Streaming",streamFilter:"Filter",startStreaming:"Mulai Streaming",stopStreaming:"Hentikan Streaming",streamLayers:"Layer Streaming",startStopStream:"Aktifkan opsi Hentikan streaming atau Mulai streaming",clearStream:"Aktifkan opsi Bersihkan observasi sebelumnya",attributeFilter:"Aktifkan Filter atribut",spatialFilter:"Aktifkan Filter spasial",configFilter:"Konfigurasikan Filter Atribut Streaming",drawPrevious:"Aktifkan opsi Gambarkan observasi sebelumnya",
+addNew:"Tambah Filter",setFilterName:"Tetapkan Nama Filter",filterNameExists:"Filter nama yang ada di tabel!",invalidFilterName:"Nama harus berupa kata yang berisi a-z, A-Z, 0-9 or _.",noFilterTip:"Tidak ada filter yang dikonfigurasikan",addFilterFailed:"Gagal menambahkan filter",filterName:"Nama Filter",limitMapExtent:"Batasi observasi dalam area peta saat ini",limitDrawExtent:"Batasi observasi dalam area yang ditentukan pengguna",newFilter:"Filter Baru",filterReadOnly:"Filter yang diperoleh dari webmap hanya dapat dibaca saja.",
+_localized:{}}});

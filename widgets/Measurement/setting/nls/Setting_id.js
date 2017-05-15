@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Measurement/setting/nls/strings":{defaultAreaUnit:"Unit Area Default",defaultLengthUnit:"Unit Panjang Default",acres:"Acre",sqMiles:"Mil Persegi",sqKilometers:"Kilometer Persegi",hectares:"Hektare",sqYards:"Yard Persegi",sqFeet:"Kaki Persegi",sqFeetUS:"Kaki Persegi (AS)",sqMeters:"Meter Persegi",miles:"Mil",kilometers:"Kilometer",feet:"Kaki",feetUS:"Kaki (AS)",meters:"Meter",yards:"Yard",nauticalMiles:"Mil Laut",showArea:"Area",showDistance:"Jarak",showLocation:"Lokasi",showtools:"Tampilkan alat pengukuran:",
+allHidedTips:"Paling sedikit satu alat harus dipilih.",_localized:{}}});
